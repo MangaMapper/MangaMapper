@@ -1,1 +1,2 @@
-map.amango.org
+access at: [map.amango.org
+](url)
